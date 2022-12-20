@@ -17,6 +17,7 @@ export const defaultGuardGroup =
 // "qasJ6jhgtngKk2QnEPdDjuFH8NMoM58W8TxPBXAChPY"
 // "3zwFR3spiwbSSMtvVKG2bRT6ttqFoC3MHCafGP8ZrdLz"
 // "DAA8yRLu7acVs3kxaTyCjoEjNWGinLaCKVhDY29ASNua"
+// "DAA8yRLu7acVs3kxaTyCjoEjNWGinLaCKVhDY29ASNua"
 
 export const whitelistedWallets = [
   "Bv3BCTYqcP2gBNSaL5fKpS369r36eFujyc84K2TuEcoq",
